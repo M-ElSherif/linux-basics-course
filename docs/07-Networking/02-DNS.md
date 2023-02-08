@@ -67,7 +67,12 @@
     hosts: files dns
     …
     ```
-
+    
+  - Add the following to namserver to forward all other ping requests to 8.8.8.8 which is google's internet nameserver
+    ```bash
+    Forward ALL to 8.8.8.8
+    ```
+   
 # DOMAIN NAMES
 
   ![DNS](../../images//dns.PNG)
