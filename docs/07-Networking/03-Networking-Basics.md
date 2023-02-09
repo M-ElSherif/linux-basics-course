@@ -4,7 +4,7 @@
 
   - Determine ip address current network interfaces and ip addresses using:
     ```bash
-    ip a
+    ip address
     ```
 
   #### Switching
