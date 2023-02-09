@@ -61,7 +61,7 @@
   [~]$ ip addr
   ```
 
-  - 
+  - Display and alter routing table
 
   ```
   [~]$ ip route
