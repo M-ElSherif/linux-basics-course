@@ -2,11 +2,6 @@
 
   - Take me to the [Tutorial](https://kodekloud.com/topic/networking-basics/)
 
-  - Determine ip address current network interfaces and ip addresses using:
-    ```bash
-    ip address
-    ```
-
   #### Switching
 
   - Switching helps to connect the interface within same network.
